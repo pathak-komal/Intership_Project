@@ -81,13 +81,13 @@ The system consists of two parts:
 
 ### 🔹 Confusion Matrix
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-14 033307" src="https://github.com/user-attachments/assets/1aeae2e6-765e-46bf-9012-97670911f6b4" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-14 033249" src="https://github.com/user-attachments/assets/a57fa8f6-ebea-42bb-ae65-617c580d21f0" />
 
 
 ### 🔹 Feature Importance
 
+<img width="1920" height="1020" alt="Screenshot 2025-09-14 033307" src="https://github.com/user-attachments/assets/1aeae2e6-765e-46bf-9012-97670911f6b4" />
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-14 033249" src="https://github.com/user-attachments/assets/a57fa8f6-ebea-42bb-ae65-617c580d21f0" />
 
 
 
