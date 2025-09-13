@@ -74,18 +74,20 @@ The system consists of two parts:
 
 ### 🔹 Dashboard Interface
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-06 024421" src="https://github.com/user-attachments/assets/a79e4d55-39bb-4f5c-9269-6c7b72f32850" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-14 033234" src="https://github.com/user-attachments/assets/a5b0c15d-876c-4760-a121-1971beb7632e" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-14 033329" src="https://github.com/user-attachments/assets/12f5344f-c47d-4093-83fd-22e26c4d2773" />
+
 
 
 ### 🔹 Confusion Matrix
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-06 024350" src="https://github.com/user-attachments/assets/7f353301-8d04-4228-a3b9-29922a561d4a" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-14 033307" src="https://github.com/user-attachments/assets/1aeae2e6-765e-46bf-9012-97670911f6b4" />
 
 
 ### 🔹 Feature Importance
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-06 024404" src="https://github.com/user-attachments/assets/d9f878b1-0694-4158-9d81-2c8795629c80" />
 
+<img width="1920" height="1020" alt="Screenshot 2025-09-14 033249" src="https://github.com/user-attachments/assets/a57fa8f6-ebea-42bb-ae65-617c580d21f0" />
 
 
 
