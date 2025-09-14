@@ -70,7 +70,7 @@ The system consists of two main parts:
 
 ## 🔄 Project Workflow
 
-<img width="2000" height="1200" alt="crop_project_workflow" src="https://github.com/user-attachments/assets/e446a919-00a7-47ff-9eea-cadf3b34dbb9" />  
+<img width="1536" height="1024" alt="workflow" src="https://github.com/user-attachments/assets/726e6385-9ca5-487a-9843-564d78eb7a5c" />
 
 ---
 
